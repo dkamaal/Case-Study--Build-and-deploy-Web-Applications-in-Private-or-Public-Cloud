@@ -18,7 +18,7 @@ Nagios Monitoring Tool monitors different services on localhost as well as other
 
 As a team we were able to successfully Install Nagios Monitoring tool on Server 07 of Regis Cloud. At the same time we were able to Install NRPE (Nagios Remote Plugin Executer) on Server 02. We were able to prove that we can monitor services on Nagios Server (Server 07) and Remote Server (Server 02) with correct configurations in place along with commands defined to access those services data. To take it further we Installed Private Cloud “NextCloud” on Server 02 and proved that we can monitor Private Cloud running on remote server (Server 02) as well. To prove the Hypotheses Database and NextCloud Web Service were monitored and data was collected by uploading and downloading data to NextCloud.
 
-#Acknowledgements
+# Acknowledgements
 
 I would like to express my special thanks of gratitude to Dr. Pyatt who gave me opportunity to do Research and this Case Study. Special thanks to Nagios Team Members Brenda Palmer and Mohammad Alsharayri who worked with me on Research Project. I learned a lot during Labs and Research Project Sessions.
 
